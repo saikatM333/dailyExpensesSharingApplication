@@ -1,0 +1,6 @@
+@DailyExpensesSharingApplication_HostAddress = http://localhost:5139
+
+GET {{DailyExpensesSharingApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

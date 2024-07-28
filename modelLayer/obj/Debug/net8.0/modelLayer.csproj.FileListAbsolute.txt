@@ -1,0 +1,11 @@
+C:\Users\Saikat Mondal\source\repos\DailyExpensesSharingApplication\modelLayer\bin\Debug\net8.0\modelLayer.deps.json
+C:\Users\Saikat Mondal\source\repos\DailyExpensesSharingApplication\modelLayer\bin\Debug\net8.0\modelLayer.dll
+C:\Users\Saikat Mondal\source\repos\DailyExpensesSharingApplication\modelLayer\bin\Debug\net8.0\modelLayer.pdb
+C:\Users\Saikat Mondal\source\repos\DailyExpensesSharingApplication\modelLayer\obj\Debug\net8.0\modelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saikat Mondal\source\repos\DailyExpensesSharingApplication\modelLayer\obj\Debug\net8.0\modelLayer.AssemblyInfoInputs.cache
+C:\Users\Saikat Mondal\source\repos\DailyExpensesSharingApplication\modelLayer\obj\Debug\net8.0\modelLayer.AssemblyInfo.cs
+C:\Users\Saikat Mondal\source\repos\DailyExpensesSharingApplication\modelLayer\obj\Debug\net8.0\modelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Saikat Mondal\source\repos\DailyExpensesSharingApplication\modelLayer\obj\Debug\net8.0\modelLayer.dll
+C:\Users\Saikat Mondal\source\repos\DailyExpensesSharingApplication\modelLayer\obj\Debug\net8.0\refint\modelLayer.dll
+C:\Users\Saikat Mondal\source\repos\DailyExpensesSharingApplication\modelLayer\obj\Debug\net8.0\modelLayer.pdb
+C:\Users\Saikat Mondal\source\repos\DailyExpensesSharingApplication\modelLayer\obj\Debug\net8.0\ref\modelLayer.dll
