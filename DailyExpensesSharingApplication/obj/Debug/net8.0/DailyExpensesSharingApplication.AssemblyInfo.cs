@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DailyExpensesSharingApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17f02540190f80688c82c458ed473d3554f8de63")]
 [assembly: System.Reflection.AssemblyProductAttribute("DailyExpensesSharingApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DailyExpensesSharingApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
